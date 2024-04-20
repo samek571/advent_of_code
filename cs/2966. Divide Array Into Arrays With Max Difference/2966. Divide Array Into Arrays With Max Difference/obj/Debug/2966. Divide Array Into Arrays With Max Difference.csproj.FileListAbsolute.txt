@@ -1,0 +1,6 @@
+/home/samuel/Documents/!!coding/_leetcode_cs/2966. Divide Array Into Arrays With Max Difference/2966. Divide Array Into Arrays With Max Difference/obj/Debug/2966. Divide Array Into Arrays With Max Difference.csproj.AssemblyReference.cache
+/home/samuel/Documents/!!coding/_leetcode_cs/2966. Divide Array Into Arrays With Max Difference/2966. Divide Array Into Arrays With Max Difference/obj/Debug/2966. Divide Array Into Arrays With Max Difference.csproj.CoreCompileInputs.cache
+/home/samuel/Documents/!!coding/_leetcode_cs/2966. Divide Array Into Arrays With Max Difference/2966. Divide Array Into Arrays With Max Difference/bin/Debug/_2966._Divide_Array_Into_Arrays_With_Max_Difference.exe
+/home/samuel/Documents/!!coding/_leetcode_cs/2966. Divide Array Into Arrays With Max Difference/2966. Divide Array Into Arrays With Max Difference/bin/Debug/_2966._Divide_Array_Into_Arrays_With_Max_Difference.pdb
+/home/samuel/Documents/!!coding/_leetcode_cs/2966. Divide Array Into Arrays With Max Difference/2966. Divide Array Into Arrays With Max Difference/obj/Debug/_2966._Divide_Array_Into_Arrays_With_Max_Difference.exe
+/home/samuel/Documents/!!coding/_leetcode_cs/2966. Divide Array Into Arrays With Max Difference/2966. Divide Array Into Arrays With Max Difference/obj/Debug/_2966._Divide_Array_Into_Arrays_With_Max_Difference.pdb

@@ -1,0 +1,6 @@
+/home/samuel/Documents/!!coding/_leetcode_cs/349. Intersection of Two Arrays/349. Intersection of Two Arrays/obj/Debug/349. Intersection of Two Arrays.csproj.AssemblyReference.cache
+/home/samuel/Documents/!!coding/_leetcode_cs/349. Intersection of Two Arrays/349. Intersection of Two Arrays/obj/Debug/349. Intersection of Two Arrays.csproj.CoreCompileInputs.cache
+/home/samuel/Documents/!!coding/_leetcode_cs/349. Intersection of Two Arrays/349. Intersection of Two Arrays/bin/Debug/_349._Intersection_of_Two_Arrays.exe
+/home/samuel/Documents/!!coding/_leetcode_cs/349. Intersection of Two Arrays/349. Intersection of Two Arrays/bin/Debug/_349._Intersection_of_Two_Arrays.pdb
+/home/samuel/Documents/!!coding/_leetcode_cs/349. Intersection of Two Arrays/349. Intersection of Two Arrays/obj/Debug/_349._Intersection_of_Two_Arrays.exe
+/home/samuel/Documents/!!coding/_leetcode_cs/349. Intersection of Two Arrays/349. Intersection of Two Arrays/obj/Debug/_349._Intersection_of_Two_Arrays.pdb

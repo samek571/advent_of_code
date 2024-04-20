@@ -1,0 +1,6 @@
+/home/samuel/Documents/!!coding/_leetcode_cs/1291. Sequential Digits/1291. Sequential Digits/obj/Debug/1291. Sequential Digits.csproj.AssemblyReference.cache
+/home/samuel/Documents/!!coding/_leetcode_cs/1291. Sequential Digits/1291. Sequential Digits/obj/Debug/1291. Sequential Digits.csproj.CoreCompileInputs.cache
+/home/samuel/Documents/!!coding/_leetcode_cs/1291. Sequential Digits/1291. Sequential Digits/bin/Debug/_1291._Sequential_Digits.exe
+/home/samuel/Documents/!!coding/_leetcode_cs/1291. Sequential Digits/1291. Sequential Digits/bin/Debug/_1291._Sequential_Digits.pdb
+/home/samuel/Documents/!!coding/_leetcode_cs/1291. Sequential Digits/1291. Sequential Digits/obj/Debug/_1291._Sequential_Digits.exe
+/home/samuel/Documents/!!coding/_leetcode_cs/1291. Sequential Digits/1291. Sequential Digits/obj/Debug/_1291._Sequential_Digits.pdb

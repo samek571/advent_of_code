@@ -1,0 +1,6 @@
+/home/samuel/Documents/!!coding/_leetcode_cs/1. Two Sum/1. Two Sum/obj/Debug/1. Two Sum.csproj.AssemblyReference.cache
+/home/samuel/Documents/!!coding/_leetcode_cs/1. Two Sum/1. Two Sum/obj/Debug/1. Two Sum.csproj.CoreCompileInputs.cache
+/home/samuel/Documents/!!coding/_leetcode_cs/1. Two Sum/1. Two Sum/bin/Debug/_1._Two_Sum.exe
+/home/samuel/Documents/!!coding/_leetcode_cs/1. Two Sum/1. Two Sum/bin/Debug/_1._Two_Sum.pdb
+/home/samuel/Documents/!!coding/_leetcode_cs/1. Two Sum/1. Two Sum/obj/Debug/_1._Two_Sum.exe
+/home/samuel/Documents/!!coding/_leetcode_cs/1. Two Sum/1. Two Sum/obj/Debug/_1._Two_Sum.pdb

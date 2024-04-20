@@ -1,0 +1,6 @@
+/home/samuel/Documents/_uni/2/program_cs/1992. Find All Groups of Farmland /1992. Find All Groups of Farmland /obj/Debug/1992. Find All Groups of Farmland.csproj.AssemblyReference.cache
+/home/samuel/Documents/_uni/2/program_cs/1992. Find All Groups of Farmland /1992. Find All Groups of Farmland /obj/Debug/1992. Find All Groups of Farmland.csproj.CoreCompileInputs.cache
+/home/samuel/Documents/_uni/2/program_cs/1992. Find All Groups of Farmland /1992. Find All Groups of Farmland /bin/Debug/_1992._Find_All_Groups_of_Farmland.exe
+/home/samuel/Documents/_uni/2/program_cs/1992. Find All Groups of Farmland /1992. Find All Groups of Farmland /bin/Debug/_1992._Find_All_Groups_of_Farmland.pdb
+/home/samuel/Documents/_uni/2/program_cs/1992. Find All Groups of Farmland /1992. Find All Groups of Farmland /obj/Debug/_1992._Find_All_Groups_of_Farmland.exe
+/home/samuel/Documents/_uni/2/program_cs/1992. Find All Groups of Farmland /1992. Find All Groups of Farmland /obj/Debug/_1992._Find_All_Groups_of_Farmland.pdb

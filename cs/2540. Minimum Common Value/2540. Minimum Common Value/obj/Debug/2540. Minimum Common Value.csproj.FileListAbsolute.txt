@@ -1,0 +1,6 @@
+/home/samuel/Documents/!!coding/_leetcode_cs/2540. Minimum Common Value/2540. Minimum Common Value/bin/Debug/_2540._Minimum_Common_Value.exe
+/home/samuel/Documents/!!coding/_leetcode_cs/2540. Minimum Common Value/2540. Minimum Common Value/bin/Debug/_2540._Minimum_Common_Value.pdb
+/home/samuel/Documents/!!coding/_leetcode_cs/2540. Minimum Common Value/2540. Minimum Common Value/obj/Debug/2540. Minimum Common Value.csproj.AssemblyReference.cache
+/home/samuel/Documents/!!coding/_leetcode_cs/2540. Minimum Common Value/2540. Minimum Common Value/obj/Debug/2540. Minimum Common Value.csproj.CoreCompileInputs.cache
+/home/samuel/Documents/!!coding/_leetcode_cs/2540. Minimum Common Value/2540. Minimum Common Value/obj/Debug/_2540._Minimum_Common_Value.exe
+/home/samuel/Documents/!!coding/_leetcode_cs/2540. Minimum Common Value/2540. Minimum Common Value/obj/Debug/_2540._Minimum_Common_Value.pdb
