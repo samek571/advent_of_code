@@ -1,0 +1,2 @@
+/home/samuel/Documents/!!coding/2900. Longest Unequal Adjacent Groups Subsequence I /2900. Longest Unequal Adjacent Groups Subsequence I /obj/Debug/2900. Longest Unequal Adjacent Groups Subsequence I.csproj.AssemblyReference.cache
+/home/samuel/Documents/!!coding/2900. Longest Unequal Adjacent Groups Subsequence I /2900. Longest Unequal Adjacent Groups Subsequence I /obj/Debug/2900. Longest Unequal Adjacent Groups Subsequence I.csproj.CoreCompileInputs.cache
